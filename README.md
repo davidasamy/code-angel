@@ -12,11 +12,7 @@ AI-assisted coding tool that helps students learn while giving instructors full 
 
 ### Demo
 
-Visit [codeangel.study](https://codeangel.study) and log in with:
-```
-Email:    alice@student.com
-Password: password123
-```
+Visit [codeangel.study](https://codeangel.study) 
 
 ### Local Setup
 
@@ -43,7 +39,7 @@ npm run dev
 
 ## How It Works
 
-Students interact with the AI to get coding help — hints, debugging, code generation. Every interaction is logged and reviewable by instructors through a dashboard, maintaining academic integrity without blocking access to AI tools.
+Students interact with the AI to get coding help, hints, debugging, code generation. Every interaction is logged and reviewable by instructors through a dashboard, maintaining academic integrity without blocking access to AI tools.
 
 ## Built By
 
